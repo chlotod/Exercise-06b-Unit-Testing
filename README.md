@@ -16,5 +16,5 @@ Built using Godot 3.2.3
 ## Future Development
 Add more tests
 
-## Created by 
-Jason Francis
+## Created by
+Chloe Tod
